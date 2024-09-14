@@ -1,0 +1,1 @@
+I developed a comprehensive dashboard for an imaginary company, Apex Bikes, using Power BI. The project involved transforming and cleaning raw data using SQL to ensure accuracy and clarity. The final dashboard presents key business metrics and insights, offering a clear overview of performance to aid in data-driven decision-making.
